@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Skye (@skyeml117) 👋
 
-<!--
-**skyeml117/skyeml117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications and developer tools, mostly focused on keeping things fast, simple, and dependency-light. Currently making things at Creative Lab in Stockholm.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- Lightweight internal tooling and automation scripts.
+- Full-stack TypeScript apps with minimal client-side state.
+- Experimenting with local-first architectures and embedded databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech I use daily
+- **Languages:** TypeScript, JavaScript, SQL
+- **Backend:** Node.js, Express, SQLite (`better-sqlite3`)
+- **Frontend:** React, Vite, CSS / Tailwind
+- **Other:** Git, Docker, Vitest, Linux
+
+#### Get in touch
+- Email: `skye@creativelab.se`
+- Open an issue/PR on any public repo here if you want to collaborate or chat code.
